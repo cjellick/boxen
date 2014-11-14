@@ -10,6 +10,7 @@ class people::cjellick {
   include docker
   include mysql
   include python
+  include java
   include macvim
 
   include python::virtualenvwrapper
